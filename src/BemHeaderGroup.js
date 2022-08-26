@@ -1,6 +1,6 @@
 import './BemHeaderGroup.scss';
 
-export default () => {
+export default function BemHeaderGroup(){
   return(
     <div className="bem-header-group">
       <h2 className="bem-header-group__common-class">
