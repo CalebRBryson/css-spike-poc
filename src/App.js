@@ -7,8 +7,8 @@ import BemHeaderGroup from './BemHeaderGroup.js';
 function App() {
   return (
     <div className="App">
-      <h1> CSS Styling POC </h1>
-      <h2> CSS STYLING </h2>
+      <h1> CSS POC </h1>
+      <h2> Plain CSS </h2>
       <BemHeaderGroup/>
       <StyledComponentHeader/>
       <web-component-header/>

@@ -4,10 +4,10 @@ export default () => {
   return(
     <div className="bem-header-group">
       <h2 className="bem-header-group__common-class">
-        BEM STYLING
+        BEM
       </h2>
       <h2 className="bem-header-group__common-class--error">
-        BEM STYLING Modified
+        BEM Modified
       </h2>
     </div>
   )

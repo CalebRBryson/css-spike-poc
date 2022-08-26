@@ -1,6 +1,6 @@
 const template = document.createElement('template');
 template.innerHTML = `
-<h2>Web Component Header</h2>`;
+<h2>Web Component</h2>`;
 const style = document.createElement('style');
 style.textContent = `
 h2 {
